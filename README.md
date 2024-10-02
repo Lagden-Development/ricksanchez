@@ -1,4 +1,4 @@
-# Rick Sanchez | Activity Watcher - Based on [RickBot](https://github.com/Lagden-Development/rickbot).
+# Rick Sanchez | Activity Watcher - Built with the [RickBot](https://github.com/Lagden-Development/rickbot) discord.py framework.
 Rick Sanchez watches and updates (in real time) a MongoDB database with your discord activity and profile data for use within other projects or an API.
 
 Example Use: Join the [lagden.dev Discord Server](https://discord.gg/zXumZ5jsBF), then you can access your data at `api.lagden.dev/v1/watcher/<discord_id>`.
