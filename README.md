@@ -8,3 +8,7 @@ Example Use: Join the [lagden.dev Discord Server](https://discord.gg/zXumZ5jsBF)
 This code is specifically designed for use with lagden.dev internal systems. Please note that we do not provide any support for this repository.
 
 Please refer to the RickBot [README.md](https://github.com/Lagden-Development/rickbot/blob/main/README.md) for setup and installation.
+
+## License
+
+This project is licensed under the terms of the non-commercial open-source license. You can view the full license [here](https://github.com/Lagden-Development/.github/blob/main/LICENSE).
